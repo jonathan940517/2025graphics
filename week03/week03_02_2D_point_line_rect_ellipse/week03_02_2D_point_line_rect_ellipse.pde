@@ -1,0 +1,9 @@
+//week03_02_2D_point_line_rect_ellipse
+size(400,400);
+stroke(0,255,255);
+strokeWeight(8);
+point(200,200);
+line(0,200,200,0);
+rect(250,200,100,150);
+fill(255,0,255);
+ellipse(300,200,50,80);
